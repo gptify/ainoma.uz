@@ -1,0 +1,15 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/yangiliklar", "destination": "/yangiliklar.html" },
+    { "source": "/vositalar", "destination": "/vositalar.html" },
+    { "source": "/vosita", "destination": "/vosita.html" },
+    { "source": "/qollanmalar", "destination": "/qollanmalar.html" },
+    { "source": "/qollanma", "destination": "/qollanma.html" },
+    { "source": "/qollanma-b2b", "destination": "/qollanma-b2b.html" },
+    { "source": "/hikoyalar", "destination": "/hikoyalar.html" },
+    { "source": "/maqola", "destination": "/maqola.html" },
+    { "source": "/maqola-gpt6-astra", "destination": "/maqola-gpt6-astra.html" },
+    { "source": "/portal", "destination": "/ainoma_portal.html" }
+  ]
+}
