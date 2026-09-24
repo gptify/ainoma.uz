@@ -1,5 +1,8 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": true }
+  ],
   "rewrites": [
     { "source": "/yangiliklar", "destination": "/yangiliklar.html" },
     { "source": "/vositalar", "destination": "/vositalar.html" },

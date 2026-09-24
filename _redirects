@@ -1,4 +1,5 @@
-# AiNoma Clean URLs
+# AiNoma Clean URLs & Redirects
+/index.html / 301
 /yangiliklar /yangiliklar.html 200
 /vositalar /vositalar.html 200
 /vosita /vosita.html 200
