@@ -4,6 +4,8 @@
     { "source": "/yangiliklar", "destination": "/yangiliklar.html" },
     { "source": "/vositalar", "destination": "/vositalar.html" },
     { "source": "/vosita", "destination": "/vosita.html" },
+    { "source": "/chatgpt-uzbekiston", "destination": "/chatgpt-uzbekiston.html" },
+    { "source": "/ai-prezentatsiya", "destination": "/ai-prezentatsiya.html" },
     { "source": "/qollanmalar", "destination": "/qollanmalar.html" },
     { "source": "/qollanma", "destination": "/qollanma.html" },
     { "source": "/qollanma-b2b", "destination": "/qollanma-b2b.html" },
