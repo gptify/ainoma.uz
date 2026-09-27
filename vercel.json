@@ -1,7 +1,9 @@
 {
   "cleanUrls": true,
   "redirects": [
-    { "source": "/index.html", "destination": "/", "permanent": true }
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/chat", "destination": "/chatgpt-uzbekiston.html", "permanent": true },
+    { "source": "/chatgpt", "destination": "/chatgpt-uzbekiston.html", "permanent": true }
   ],
   "rewrites": [
     { "source": "/yangiliklar", "destination": "/yangiliklar.html" },

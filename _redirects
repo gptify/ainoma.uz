@@ -1,5 +1,7 @@
 # AiNoma Clean URLs & Redirects
 /index.html / 301
+/chat /chatgpt-uzbekiston.html 301
+/chatgpt /chatgpt-uzbekiston.html 301
 /yangiliklar /yangiliklar.html 200
 /vositalar /vositalar.html 200
 /vosita /vosita.html 200
