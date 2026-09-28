@@ -223,6 +223,9 @@
     const toolsData = window.AINOMA_TOOLS || {};
     const params = new URLSearchParams(window.location.search);
     const toolId = params.get("id") || "gamma";
+    if (toolId === "ildam") {
+      window.location.replace("vositalar/ildam/");
+    }
     const data = toolsData[toolId] || toolsData["gamma"];
 
     document.getElementById("pageTitle").innerText = data.name + " sharhi va qo‘llanmasi — AiNoma AI vositalar";
