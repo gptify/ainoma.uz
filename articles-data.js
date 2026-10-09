@@ -1,3 +1,5 @@
+// AiNoma Central Content Database
+// Generated & Synchronized automatically
 window.AINOMA_ARTICLES = {
   "gemini-4-argon-google-deepmind": {
     "id": "gemini-4-argon-google-deepmind",
@@ -3148,34 +3150,34 @@ window.AINOMA_ARTICLES = {
     "slug": "ai-bilan-rezyume-cv-yozish",
     "title": "AI yordamida rezyume (CV) va motivatsion xat yozish",
     "kicker": "AMALIY QO'LLANMA · ISH QIDIRISH",
-    "meta_title": "AI yordamida rezyume (CV) va motivatsion xat yozish — AiNoma Qo‘llanma",
+    "meta_title": "AI yordamida rezyume (CV) va motivatsion xat yozish — AiNoma",
     "meta_description": "Bir xil rezyumeni har joyga yubormang. AI yordamida har bir e'longa moslashtirilgan, kuchli CV va xat tayyorlash yo'li.",
     "category": "Qo'llanmalar",
     "audience": "mutaxassislar",
-    "event_date": "2026-10-03",
-    "source_date": "2026-10-03",
-    "source_published_date": "2026-10-03",
-    "ainoma_published_date": "2026-10-03",
+    "event_date": "2026-10-09",
+    "source_date": "2026-10-09",
+    "source_published_date": "2026-10-09",
+    "ainoma_published_date": "2026-10-09",
     "read_time": "5 daqiqalik mutolaa",
     "readTime": "5 daqiqalik mutolaa",
     "deck": "Bir xil rezyumeni har joyga yubormang. AI yordamida har bir e'longa moslashtirilgan, kuchli CV va xat tayyorlash yo'li.",
-    "img": "assets/coding_workspace.jpg",
+    "img": "assets/ai_network.jpg",
     "imgAlt": "AI yordamida rezyume (CV) va motivatsion xat yozish",
     "qisqacha": [
-      "Amaliyotda sinovdan o'tgan qadamlar va professional metodologiya.",
-      "O'zbekiston korxonalari va mutaxassislari uchun to'g'ridan-to'g'ri tatbiq etish yo'riqnomasi."
+      "Bir xil rezyumeni har joyga yubormang.",
+      "AI yordamida har bir e'longa moslashtirilgan, kuchli CV va xat tayyorlash yo'li."
     ],
     "primary_source": {
-      "name": "AiNoma Tahririyati",
+      "name": "Rasmiy Manba",
       "title": "AI yordamida rezyume (CV) va motivatsion xat yozish",
-      "url": "https://ainoma.uz/qollanmalar.html",
-      "badge": "AMALIY QO‘LLANMA"
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "badge": "BIRLAMCHI MANBA"
     },
     "secondary_sources": [],
     "body": "<p><b>Qisqa javob:</b> AI'ga tayyor tajribangizni bering, u tuzilma va so'z tanlashda yordam beradi — ammo faktlarni (lavozim, sana, natija) hech qachon o'zi \"to'qib chiqarishiga\" yo'l qo'ymang.</p>\n<p>Amaliy ta'lim va metodologiya guruhi · 5 daqiqalik mutolaa</p>\n<h2 class=\"article-section-title\">1-qadam: Xom ma'lumotni tayyorlang</h2>\n<p>Avval o'zingizning barcha tajribangizni (lavozim, kompaniya, sanalar, aniq natijalar) oddiy matnda yozib chiqing — buni AI'ga xom material sifatida berasiz. AI hech qachon sizning haqiqiy tajribangizni bilmaydi, shuning uchun aniq faktlarni siz taqdim etishingiz kerak.</p>\n<h2 class=\"article-section-title\">2-qadam: Natijaga yo'naltirilgan gaplar tuzing</h2>\n<p>Ko'p rezyumelar \"vazifalar ro'yxati\" bo'lib qoladi (\"mijozlar bilan ishladim\"), holbuki ishga oluvchilar <b>natijani</b> ko'rishni xohlaydi. AI'dan yordam so'rang:</p>\n<p><i>Misol so'rov:</i> \"Men sotuv bo'limida ishlaganman va mijozlar bazasini kengaytirganman. Buni ishga oluvchi uchun jozibali, natijaga yo'naltirilgan bitta gapga aylantir.\"</p>\n<h2 class=\"article-section-title\">3-qadam: Har bir ish e'loniga moslashtiring</h2>\n<p>Bitta \"universal\" CV o'rniga, har bir e'lon uchun CV'ni moslashtiring. E'lon matnini AI'ga bering va qaysi ko'nikmalarni birinchi o'ringa qo'yish kerakligini so'rang.</p>\n<h2 class=\"article-section-title\">4-qadam: Motivatsion xatni qisqa va aniq qiling</h2>\n<p>Motivatsion xat uchun uzun, umumiy gaplar o'rniga — nega aynan shu kompaniya, nega aynan siz mos ekaningizni 3-4 gapda aytib bering. AI'dan xatni \"qisqartirish va kuchaytirish\" so'rang, \"uzaytirish\" emas.</p>\n<p>⚠️ <b>Diqqat:</b> AI'dan hech qachon mavjud bo'lmagan lavozim, sertifikat yoki natija \"o'ylab topishini\" so'ramang — bu suhbat bosqichida fosh bo'lishi va obro'ga jiddiy zarar keltirishi mumkin.</p>\n<p>🎯 <b>Oltin qoida</b></p>\n<p>CV — sizning haqiqiy tajribangizning eng yaxshi taqdimoti, AI esa shu taqdimotni yaxshilaydigan muharrir. Faktlar doim sizdan kelishi kerak.</p>\n<h2 class=\"article-section-title\">Amaliy mashq: Bugunoq sinab ko'ring</h2>\n<p>Joriy CV'ingizdagi bitta tajriba bandini oling va AI'dan uni natijaga yo'naltirilgan, qisqa gapga aylantirishni so'rang — oldingi va yangi variantni solishtiring.</p>\n<p>💡 <b>Keyingi qadam:</b> Aniq va tuzilgan so'rovlar yozishni o'rganish uchun <a href=\"/prompt-ustaxonasi.html\">Prompt Ustaxonasi</a>ga o'ting.</p>\n<hr class=\"article-divider\">\n<h3 class=\"article-section-title\">FAQ</h3>\n<p><b>AI to'liq CV yozib bersa bo'ladimi?</b> Tuzilma va uslubda ha, ammo faktlarni har doim siz beringiz — AI haqiqiy tajribangizni bilmaydi.</p>\n<p><b>Har bir ish uchun alohida CV kerakmi?</b> Ha, e'longa moslashtirilgan CV ishga chaqirilish ehtimolini sezilarli oshiradi.</p>\n<p><b>Motivatsion xat qancha uzun bo'lishi kerak?</b> Odatda yarim sahifadan oshmasligi kerak — qisqa va aniq bo'lgani ma'qul.</p>",
     "contentHtml": "<p><b>Qisqa javob:</b> AI'ga tayyor tajribangizni bering, u tuzilma va so'z tanlashda yordam beradi — ammo faktlarni (lavozim, sana, natija) hech qachon o'zi \"to'qib chiqarishiga\" yo'l qo'ymang.</p>\n<p>Amaliy ta'lim va metodologiya guruhi · 5 daqiqalik mutolaa</p>\n<h2 class=\"article-section-title\">1-qadam: Xom ma'lumotni tayyorlang</h2>\n<p>Avval o'zingizning barcha tajribangizni (lavozim, kompaniya, sanalar, aniq natijalar) oddiy matnda yozib chiqing — buni AI'ga xom material sifatida berasiz. AI hech qachon sizning haqiqiy tajribangizni bilmaydi, shuning uchun aniq faktlarni siz taqdim etishingiz kerak.</p>\n<h2 class=\"article-section-title\">2-qadam: Natijaga yo'naltirilgan gaplar tuzing</h2>\n<p>Ko'p rezyumelar \"vazifalar ro'yxati\" bo'lib qoladi (\"mijozlar bilan ishladim\"), holbuki ishga oluvchilar <b>natijani</b> ko'rishni xohlaydi. AI'dan yordam so'rang:</p>\n<p><i>Misol so'rov:</i> \"Men sotuv bo'limida ishlaganman va mijozlar bazasini kengaytirganman. Buni ishga oluvchi uchun jozibali, natijaga yo'naltirilgan bitta gapga aylantir.\"</p>\n<h2 class=\"article-section-title\">3-qadam: Har bir ish e'loniga moslashtiring</h2>\n<p>Bitta \"universal\" CV o'rniga, har bir e'lon uchun CV'ni moslashtiring. E'lon matnini AI'ga bering va qaysi ko'nikmalarni birinchi o'ringa qo'yish kerakligini so'rang.</p>\n<h2 class=\"article-section-title\">4-qadam: Motivatsion xatni qisqa va aniq qiling</h2>\n<p>Motivatsion xat uchun uzun, umumiy gaplar o'rniga — nega aynan shu kompaniya, nega aynan siz mos ekaningizni 3-4 gapda aytib bering. AI'dan xatni \"qisqartirish va kuchaytirish\" so'rang, \"uzaytirish\" emas.</p>\n<p>⚠️ <b>Diqqat:</b> AI'dan hech qachon mavjud bo'lmagan lavozim, sertifikat yoki natija \"o'ylab topishini\" so'ramang — bu suhbat bosqichida fosh bo'lishi va obro'ga jiddiy zarar keltirishi mumkin.</p>\n<p>🎯 <b>Oltin qoida</b></p>\n<p>CV — sizning haqiqiy tajribangizning eng yaxshi taqdimoti, AI esa shu taqdimotni yaxshilaydigan muharrir. Faktlar doim sizdan kelishi kerak.</p>\n<h2 class=\"article-section-title\">Amaliy mashq: Bugunoq sinab ko'ring</h2>\n<p>Joriy CV'ingizdagi bitta tajriba bandini oling va AI'dan uni natijaga yo'naltirilgan, qisqa gapga aylantirishni so'rang — oldingi va yangi variantni solishtiring.</p>\n<p>💡 <b>Keyingi qadam:</b> Aniq va tuzilgan so'rovlar yozishni o'rganish uchun <a href=\"/prompt-ustaxonasi.html\">Prompt Ustaxonasi</a>ga o'ting.</p>\n<hr class=\"article-divider\">\n<h3 class=\"article-section-title\">FAQ</h3>\n<p><b>AI to'liq CV yozib bersa bo'ladimi?</b> Tuzilma va uslubda ha, ammo faktlarni har doim siz beringiz — AI haqiqiy tajribangizni bilmaydi.</p>\n<p><b>Har bir ish uchun alohida CV kerakmi?</b> Ha, e'longa moslashtirilgan CV ishga chaqirilish ehtimolini sezilarli oshiradi.</p>\n<p><b>Motivatsion xat qancha uzun bo'lishi kerak?</b> Odatda yarim sahifadan oshmasligi kerak — qisqa va aniq bo'lgani ma'qul.</p>",
     "verification_status": "VERIFIED",
-    "verification_date": "2026-10-03",
+    "verification_date": "2026-10-09",
     "author": {
       "name": "AiNoma Tahririyati",
       "job": "Amaliy ta'lim va metodologiya guruhi",
