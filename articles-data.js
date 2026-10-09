@@ -1,6 +1,38 @@
-// AiNoma Central Content Database
-// Generated & Synchronized automatically
 window.AINOMA_ARTICLES = {
+  "oracle-chatgpt-codex-ish-vaqtini-qisqartirdi": {
+    "id": "oracle-chatgpt-codex-ish-vaqtini-qisqartirdi",
+    "slug": "oracle-chatgpt-codex-ish-vaqtini-qisqartirdi",
+    "title": "Oracle ChatGPT va Codex bilan ish vaqtini qisqartirdi",
+    "kicker": "Voqea: 09-Oktabr, 2026 · Manba: 09-Oktabr, 2026 · AiNoma: 09-Oktabr, 2026",
+    "deck": "Oracle mutaxassislar bilimini ChatGPT Work va Codex yordamida avtomatlashtirilgan jarayonlarga aylantirib, ko‘p kunlik topshiriqlarni daqiqalar ichida bajarmoqda.",
+    "event_date": "2026-10-09",
+    "source_published_date": "2026-10-09",
+    "ainoma_published_date": "2026-10-09",
+    "ainoma_updated_date": "2026-10-09",
+    "author": "AiNoma Tahririyati",
+    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
+    "readTime": "4 daqiqalik mutolaa",
+    "category": "Biznes & AI",
+    "audience": "mutaxassislar biznes",
+    "img": "assets/openai_gpt_banner.jpg",
+    "imgAlt": "Oracle kompaniyasi ChatGPT va Codex texnologiyalaridan foydalanishi",
+    "qisqacha": [
+      "Oracle ChatGPT Work va Codex vositalarini ishga qabul qilish, muhandislik va operatsion jarayonlarga joriy etdi.",
+      "Muhandislar va mutaxassislarning bilim hamda ko‘nikmalari avtomatlashtirilgan, takrorlanuvchi ish mezonlariga aylantirildi.",
+      "Natijada ilgari bir necha kun talab qilgan korporativ vazifalar bir nechta daqiqa ichida hal qilinmoqda."
+    ],
+    "primary_source": {
+      "name": "OpenAI Blog",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "date": "09.10.2026",
+      "badge": "BIRLAMCHI MANBA"
+    },
+    "secondary_sources": [],
+    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Dunyoning eng yirik dasturiy ta’minot va bulutli infratuzilma gigantlaridan biri bo‘lmish Oracle kompaniyasi o‘zining ichki operational jarayonlarini tubdan o‘zgartirayotganini e’lon qildi. Kompaniya ChatGPT Work hamda Codex model va vositalarini barcha asosiy bo‘limlarga — kadrlar tanlash (recruiting), dasturiy muhandislik (engineering) hamda biznes operatsiyalariga tatbiq etdi.</p>\n<p>Oracle ichki mutaxassislarining noyob bilimlari va amaliy tajribasini Sun’iy intellekt modellariga kiritish orqali tezkor hamda qayta ishlatiluvchi raqamli ish oqimlarini (workflows) shakllantirdi. Natijada ilgari bir necha kunlab vaqt olgan murakkab tahliliy va texnik vazifalar endi sanoqli daqiqalar ichida yakunlanmoqda.</p>\n\n<h2>Nega muhim?</h2>\n<p>Korporatsiyalar uchun Sun’iy intellekt shunchaki matn yozish yoki savol-javob vositasi bo‘lib qolmay, kompaniyaning institutsional bilimlarni doimiy ishlaydigan avtomatlashtirilgan tizimga aylantirish drayveriga aylanmoqda. Oracle tajribasi korporativ bilimlar bazasini amaliy harakatga keltiruvchi mexanizmga aylantirish mumkinligini amalda ko‘rsatdi.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li><strong>Codex integratsiyasi:</strong> Muhandislik jamoalari kod bazasini tahlil qilish, refaktoring va hujjatlashtirishni Codex orqali avtomatlashtirdi.</li>\n      <li><strong>Shablonli ish oqimlari:</strong> Mutaxassislar bilimi asosida doimiy ishlaydigan prompt-staklar va skriptlar majmuasi yo‘lga qo‘yildi.</li>\n      <li><strong>Standartlashtirish:</strong> Kod sifati va xavfsizlik talablari Sun’iy intellekt assistentlari darajasida avtomatlashtirilib, xatolar ulushi keskin kamaytirildi.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li><strong>Xarajatlar va vaqt tejamkorligi:</strong> Bir necha kunlik operatsiyalarning daqiqalarga qisqarishi mehnat samaradorligini o‘n barobargacha oshirdi.</li>\n      <li><strong>Kadrlar tanlash tezligi:</strong> HR va HR-tech bo‘limlari munosib nomzodlarni saralash va ularni baholash jarayonlarini jadallashtirdi.</li>\n      <li><strong>Bilimlar yo‘qolmasligi:</strong> Malakali xodimlarning tajribasi raqamlashtirilib, kompaniya ichki ekotizimida saqlanib qolmoqda.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekistonning jadal rivojlanayotgan IT-autsorsing hamda fintex korxonalarida malakali kadrlar yetishmovchiligi va operatsion sekinlik tez-tez uchraydi. Oracle keysi mahalliy kompaniyalar uchun tayyor namuna hisoblanadi: Siz yetakchi mutaxassislaringiz vaqtini takrorlanuvchi amallarga sarflamay, ularning bilimini ChatGPT Work va kod assistentlariga yuklagan holda samaradorlikni oshirishingiz mumkin. Bu, ayniqsa, eksportga yo‘naltirilgan mahalliy IT kompaniyalar va banklar uchun ish hajmini tezkor miqyoslash imkoniyatini beradi.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li><strong>Ichki bilimlarni audit qiling:</strong> Kompaniyangizda eng ko‘p vaqt talab qiladigan takroriy jarayonlar va mutaxassislar tajribasini xaritalang.</li>\n    <li><strong>Kod assistentlarini joriy eting:</strong> Dasturchilar jamoangizga Codex yoki shunga o‘xshash generativ vositalardan foydalanish standartlarini belgilab bering.</li>\n    <li><strong>HR va operatsiyalarni avtomatlashtiring:</strong> Kadrlar saralash va hujjatlar bilan ishlash bo‘limlarida ChatGPT Work kabi korporativ yechimlarni sinovdan o‘tkazing.</li>\n  </ol>\n</div>",
+    "verification_status": "VERIFIED",
+    "verification_date": "2026-10-09"
+  },
   "gemini-4-argon-google-deepmind": {
     "id": "gemini-4-argon-google-deepmind",
     "slug": "gemini-4-argon-google-deepmind",

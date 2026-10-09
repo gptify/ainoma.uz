@@ -1,0 +1,23 @@
+# AiNoma Clean URLs & Redirects
+/index.html / 301
+/chat /chatgpt-uzbekiston.html 301
+/chatgpt /chatgpt-uzbekiston.html 301
+/yangiliklar /yangiliklar.html 200
+/vositalar /vositalar.html 200
+/vosita /vosita.html 200
+/chatgpt-uzbekiston /chatgpt-uzbekiston.html 200
+/ai-prezentatsiya /ai-prezentatsiya.html 200
+/qollanmalar /qollanmalar.html 200
+/qollanma /qollanma.html 200
+/qollanma-b2b /qollanma-b2b.html 200
+/prompt-ustaxonasi /prompt-ustaxonasi.html 200
+/qollanma-noldan /qollanma-noldan.html 200
+/qollanma-prompting /qollanma-prompting.html 200
+/qollanma-ishda /qollanma-ishda.html 200
+/qollanma-qurish /qollanma-qurish.html 200
+/hikoyalar /hikoyalar.html 200
+/imkoniyatlar /imkoniyatlar.html 200
+/haqida /haqida.html 200
+/maqola /maqola.html 200
+/maqola-gpt6-astra /maqola-gpt6-astra.html 200
+/portal /ainoma_portal.html 200
