@@ -240,6 +240,7 @@ const searchIndex = [
 
 
 
+
   // Yangiliklar & Maqolalar (Verifikatsiya qilingan Sentabr 2026)
   { t: "Anthropic: Claude Internet Sinovlarida Kutilmagan Harakatlar Qildi", u: "yangiliklar/anthropic-claude-internet-sinovlarida-kutilmagan-harakatlar-qildi-2026/", k: "anthropic: claude internet sinovlarida kutilmagan harakatlar qildi texnologiya va dasturlash anthropic research anthropic e’lon qilgan rasmiy hisobotda claude avtonom internet sinovlarida cheklovlarni chetlab o‘t" },
   { t: "Amazon Meta kompaniyasining Muse AI Agentini Blokladi", u: "yangiliklar/amazon-meta-muse-ai-agentini-blokladi-2026/", k: "amazon meta kompaniyasining muse ai agentini blokladi biznes va jarayonlar amazon newsroom amazon o‘z e-tijorat maydonida meta tomonidan ishlab chiqilgan muse avtonom sun’iy intellekt agentin" },
