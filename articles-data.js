@@ -1,4 +1,38 @@
 window.AINOMA_ARTICLES = {
+  "google-gemini-4-argon-xavfsizlik-va-masuliyat": {
+    "id": "google-gemini-4-argon-xavfsizlik-va-masuliyat",
+    "slug": "google-gemini-4-argon-xavfsizlik-va-masuliyat",
+    "title": "Google Gemini 4 Argon xavfsizlik standartlarini e'lon qildi",
+    "kicker": "Voqea: 28-Oktyabr, 2026 · Manba: 28-Oktyabr, 2026 · AiNoma: 28-Oktyabr, 2026",
+    "deck": "Google DeepMind yangi Gemini 4 Argon modelining mas'uliyatli va xavfsiz rivojlanish prinsiplari hamda baholash mezonlarini taqdim etdi.",
+    "event_date": "2026-10-28",
+    "source_published_date": "2026-10-28",
+    "ainoma_published_date": "2026-10-28",
+    "ainoma_updated_date": "2026-10-28",
+    "author": "AiNoma Tahririyati",
+    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
+    "readTime": "4 daqiqalik mutolaa",
+    "category": "Dunyo Texnologiya",
+    "audience": "mutaxassislar biznes",
+    "img": "assets/google_gemini_banner.jpg",
+    "imgAlt": "Google Gemini 4 Argon xavfsizlik bayonoti",
+    "qisqacha": [
+      "Google DeepMind Gemini 4 Argon modelining xavfsiz arxitekturasi va baholash mezonlarini e'lon qildi.",
+      "Model kiberxavfsizlik va avtonom harakatlardagi xavflarni oldini olish uchun ko'p bosqichli Red Teaming sinovlaridan o'tkazilgan.",
+      "Korporativ mijozlar uchun sun’iy intellekt risklarini kamaytirish bo'yicha yangi standartlar joriy etilmoqda."
+    ],
+    "primary_source": {
+      "name": "Google DeepMind",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "date": "28.10.2026",
+      "badge": "BIRLAMCHI MANBA"
+    },
+    "secondary_sources": [],
+    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Google DeepMind tadqiqotchilari va muhandislari navbatdagi Gemini 4 Argon modelini tayyorlashda erishilgan xavfsizlik kafolatlari va mas'uliyatli yondashuv hujjatini e'lon qildi. Kompaniya taqdim etgan hisobotda modelning avtonom mantiqiy fikrlash (reasoning), murakkab kodlash va ko'p tarmoqli ma'lumotlarni qayta ishlash qobiliyatlari oshgani sari yuzaga keladigan potentsial xavflarni jilovlash mexanizmlari batafsil bayon etilgan.</p>\n<p>Tadqiqotchilar modelni ishlab chiqish jarayonida kiberxavfsizlik, biologik va kimyoviy xatarlar hamda ijtimoiy manipulyatsiya kabi yo'nalishlarda chuqur \"Red Teaming\" (sun'iy hujumlar bilan sinash) testlarini o'tkazishgan. Gemini 4 Argon muhandislar tomonidan ilgari surilgan maxsus nazorat freymvorki asosida shakllantirilgan bo'lib, xatolik berish yoki noto'g'ri mezonlarni bajarish ehtimolini keskin kamaytiradi.</p>\n\n<h2>Nega muhim?</h2>\n<p>Sun’iy intellekt modellari agentlik qobiliyatlariga (autonomously executing tasks) ega bo'layotgan bir davrda, ularning xavfsizlik darajasi nafaqat nazariy, balki tijoriy va milliy xavfsizlik masalasiga aylanmoqda. Google DeepMind o'zining mas'uliyatli e'lon qilish mexanizmlari orqali bozorga shaffoflik va barqarorlik standartini olib kirmoqda. Siz ushbu o'zgarishlar orqali yirik platformalarning kiberxavfsizlik va axloqiy me'zonlarga qanchalik jiddiy qarayotganini ko'rishingiz mumkin.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li><strong>Red Teaming & Systemic Safety:</strong> Modelni kiberhujumlar va zaharli promptlarga chidamliligi bo'yicha 100 dan ortiq murakkab sinov ssenariylari amalga oshirilgan.</li>\n      <li><strong>Guardrail Integration:</strong> Neyrotarmoqning chiqish qismida dinamik tekshiruv va filterlash freymvorklari mukammallashtirilgan.</li>\n      <li><strong>Alignment & Fine-Tuning:</strong> Avtonom harakatlarni cheklash va mantiqiy ziddiyatlarni hal qilish bo'yicha yangi Alignment algoritmlari tatbiq etilgan.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li><strong>Risk va Javobgarlik:</strong> Korporativ jarayonlarga sun’iy intellektni integratsiya qilishda qonuniy va xavfsizlik risklarini minimallashtirish imkoniyati.</li>\n      <li><strong>Nufuz Himoyasi:</strong> Mahsulotlaringizda Gemini 4 Argon asosida ishlovchi agentlar kutilmagan reputatsion zararlar yetkazish ehtimoli past.</li>\n      <li><strong>Compliance (Moslik):</strong> Global tartibga solish va sun’iy intellekt xavfsizligi standartlariga (EU AI Act kabi) to'liq mos keladigan infratuzilma.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O'zbekiston IT va fintex sektori tobora avtonom sun’iy intellekt vositalariga tayanmoqda. Mahalliy dasturchilar va biznes egalari uchun Gemini 4 Argon kabi xavfsiz modellardan foydalanish korporativ ma'lumotlar sizib chiqishi hamda kiberxatarlarni keskin kamaytiradi. Shu bilan birga, mahalliy startaplar va davlat tashkilotlari ham o'zlarining ichki sun’iy intellekt yechimlarini bino qilishda ushbu xavfsizlik protokollarini namuna sifatida qo'llashlari zarur.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li>Google DeepMind taqdim etgan xavfsizlik hisoboti va baholash ko'rsatkichlari bilan tanishib chiqing.</li>\n    <li>Kompaniyangiz ichida qo'llanilayotgan sun’iy intellekt agentlarining xavfsizlik auditini o'tkazing.</li>\n    <li>Kiberxavfsizlik va maxfiylik talablariga mos keluvchi yangi model API'lariga o'tish imkoniyatlarini ko'rib chiqing.</li>\n  </ol>\n</div>",
+    "verification_status": "VERIFIED",
+    "verification_date": "2026-10-28"
+  },
   "ozbekiston-tibbiyotida-10-ta-suniy-intellekt-tizimi": {
     "id": "ozbekiston-tibbiyotida-10-ta-suniy-intellekt-tizimi",
     "slug": "ozbekiston-tibbiyotida-10-ta-suniy-intellekt-tizimi",

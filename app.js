@@ -279,7 +279,9 @@ const searchIndex = [
 
 
 
+
   // Yangiliklar & Maqolalar (Verifikatsiya qilingan Sentabr 2026)
+  { t: "Google Gemini 4 Argon xavfsizlik standartlarini e'lon qildi", u: "yangiliklar/google-gemini-4-argon-xavfsizlik-va-masuliyat/", k: "google gemini 4 argon xavfsizlik standartlarini e'lon qildi dunyo texnologiya google deepmind google deepmind yangi gemini 4 argon modelining mas'uliyatli va xavfsiz rivojlanish prinsiplari hamd" },
   { t: "Deepfake va soxta AI-kontentni qanday aniqlash mumkin", u: "yangiliklar/deepfake-aniqlash/", k: "deepfake va soxta ai-kontentni qanday aniqlash mumkin qo'llanmalar ainoma tahririyati ai bilan ishlab chiqilgan soxta video, rasm va ovozlar tobora ishonchli bo'lib bormoqda. ularni aniq" },
   { t: "O‘zbekiston tibbiyotida 10 ta Sun’iy intellekt tizimi tushiriladi", u: "yangiliklar/ozbekiston-tibbiyotida-10-ta-suniy-intellekt-tizimi/", k: "o‘zbekiston tibbiyotida 10 ta sun’iy intellekt tizimi tushiriladi o‘zbekiston it spot.uz it & biznes sog‘liqni saqlash tizimiga 10 ta sun’iy intellekt moduli va shifoxonalar faoliyatini aholi tomonidan" },
   { t: "Eng yaxshi bepul AI vositalari to'plami (2026)", u: "yangiliklar/eng-yaxshi-bepul-ai-vositalari/", k: "eng yaxshi bepul ai vositalari to'plami (2026) qo'llanmalar ainoma tahririyati pul sarflamasdan ham ai'dan to'liq foydalanish mumkin. matn, rasm, ovoz va taqdimot uchun eng yaxshi" },
