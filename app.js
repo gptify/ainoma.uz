@@ -283,7 +283,9 @@ const searchIndex = [
 
 
 
+
   // Yangiliklar & Maqolalar (Verifikatsiya qilingan Sentabr 2026)
+  { t: "ChatGPT tavsiyasi tufayli OpenAI sudga berildi", u: "yangiliklar/chatgpt-tavsiyasi-tufayli-openai-sudga-berildi/", k: "chatgpt tavsiyasi tufayli openai sudga berildi dunyo texnologiya daryo.uz texnologiya chatbot epilepsiya dori vositalarini to‘xtatish rejasini ishlab chiqib, o‘limga sabab bo‘lgani ortid" },
   { t: "Ijtimoiy loyihalar uchun bepul sun’iy intellekt infratuzilmasi ajratiladi", u: "yangiliklar/ijtimoiy-loyihalar-suniy-intellekt-infratuzilmasi-qaror-581/", k: "ijtimoiy loyihalar uchun bepul sun’iy intellekt infratuzilmasi ajratiladi o‘zbekiston o‘zbekiston respublikasi vazirlar mahkamasi vazirlar mahkamasining 581-son qarori bilan ilmiy tashkilotlar, startaplar va otmlarning ijtimoiy lo" },
   { t: "Anthropic Nasdaq birjasida IPO o‘tkazish uchun rasman S-1 arizasini", u: "yangiliklar/anthropic-nasdaq-ipo-s1-ariza-2026/", k: "anthropic nasdaq birjasida ipo o‘tkazish uchun rasman s-1 arizasini dunyo texnologiya anthropic, pbc / aqsh qimmatli qog‘ozlar va birjalar komissiyasi (sec) claude modellari ishlab chiquvchisi bo‘lgan anthropic kompaniyasi nasdaq birjasida 'ant' tickeri ost" },
   { t: "Google Gemini 4 Argon xavfsizlik standartlarini e'lon qildi", u: "yangiliklar/google-gemini-4-argon-xavfsizlik-va-masuliyat/", k: "google gemini 4 argon xavfsizlik standartlarini e'lon qildi dunyo texnologiya google deepmind google deepmind yangi gemini 4 argon modelining mas'uliyatli va xavfsiz rivojlanish prinsiplari hamd" },
