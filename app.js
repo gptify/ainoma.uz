@@ -299,7 +299,9 @@ const searchIndex = [
 
 
 
+
   // Yangiliklar & Maqolalar (Verifikatsiya qilingan Sentabr 2026)
+  { t: "Gemini Omni 1.2 Flash modeli e’lon qilindi", u: "yangiliklar/gemini-omni-1-2-flash-model-elon-qilindi/", k: "gemini omni 1.2 flash modeli e’lon qilindi dunyo texnologiya google deepmind google deepmind uzun klip va audiolarni tezroq va arzonroq qayta ishlovchi yangi sun’iy intellekt mo" },
   { t: "ChatGPT davrida bolalar qanday ta’lim olishi kerak? AQSH maktablarining yangi tajribasi", u: "yangiliklar/chatgpt-davrida-bolalar-talimi-aqsh-maktablari-tajribasi-2026/", k: "chatgpt davrida bolalar qanday ta’lim olishi kerak? aqsh maktablarining yangi tajribasi dunyo it & ai associated press aqsh maktablari sun’iy intellektni taqiqlash o‘rniga, bolalarga uning xatolarini aniqlash va tanqidi" },
   { t: "Apple ilk stol usti sun’iy intellekt robotini ishlab chiqmoqda: iMac G4 dizayni va aqlli datchiklar", u: "yangiliklar/apple-uy-va-ofis-uchun-suniy-intellektli-stol-ustidagi-robotini-chiqarmoqda-2026/", k: "apple ilk stol usti sun’iy intellekt robotini ishlab chiqmoqda: imac g4 dizayni va aqlli datchiklar dunyo it & ai the information apple 2027-yilda homeview seriyasidagi 9 dyuymli aylanuvchi ekran va intellektual kameralarga ega av" },
   { t: "Prompt yozish san’ati: yaxshi so‘rovning 5 qoidasi va 15 tayyor shablon", u: "yangiliklar/prompt-yozish-sanati/", k: "prompt yozish san’ati: yaxshi so‘rovning 5 qoidasi va 15 tayyor shablon qo'llanmalar ainoma metodologiya sun’iy intellektdan yuqori aniqlikdagi natija olish siri — to‘g‘ri so‘rovda. 5 amaliy qoida va nusxa" },
