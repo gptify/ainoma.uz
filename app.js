@@ -311,7 +311,11 @@ const searchIndex = [
 
 
 
+
+
   // Yangiliklar & Maqolalar (Verifikatsiya qilingan Sentabr 2026)
+  { t: "Google yangi Gemini 4 Argon modelini taqdim etdi", u: "yangiliklar/google-gemini-4-argon-reliz/", k: "google yangi gemini 4 argon modelini taqdim etdi dunyo texnologiya google deepmind google deepmind kompaniyasining navbatdagi sig'imli sun’iy intellekt modeli mantiqiy fikrlash va age" },
+  { t: "Bill Geyts Sun’iy Intellekt Pandemiyasidan Ogohlantirdi", u: "yangiliklar/bill-geyts-suniy-intellekt-xavfi-2026/", k: "bill geyts sun’iy intellekt pandemiyasidan ogohlantirdi dunyo texnologiya spot.uz it & biznes microsoft asoschisi sun’iy intellektdan biologik qurollar sintez qilish va kiberhujumlar uyushtirish" },
   { t: "Dizaynerlar uchun AI vositalari: Midjourney, Canva AI va boshqalar", u: "yangiliklar/dizaynerlar-uchun-ai/", k: "dizaynerlar uchun ai vositalari: midjourney, canva ai va boshqalar qo'llanmalar ainoma tahririyati g'oyadan tayyor vizualga tezroq o'tish uchun eng ko'p ishlatiladigan ai dizayn vositalari va ularni " },
   { t: "Yirik AI kompaniyalari yagona robots.txt standartini qabul qildi", u: "yangiliklar/yagona-robots-txt-ai-oqitish-standarti-2026/", k: "yirik ai kompaniyalari yagona robots.txt standartini qabul qildi dunyo texnologiya the next web (tnw) openai, google, microsoft va anthropic sayt egalariga o‘z kontentini sun’iy intellekt o‘qitilishidan" },
   { t: "Google arzon va tezkor Gemini omni modelini chiqardi", u: "yangiliklar/gemini-omni-1-2-flash-relizi/", k: "google arzon va tezkor gemini omni modelini chiqardi dunyo texnologiya google deepmind google deepmind uzoq video va audio oqimlarini ancha arzon narxda qayta ishlovchi gemini omni 1.2 fl" },

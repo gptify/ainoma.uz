@@ -1,6 +1,80 @@
-// AiNoma Central Content Database
-// Generated & Synchronized automatically
 window.AINOMA_ARTICLES = {
+  "google-gemini-4-argon-reliz": {
+    "id": "google-gemini-4-argon-reliz",
+    "slug": "google-gemini-4-argon-reliz",
+    "title": "Google yangi Gemini 4 Argon modelini taqdim etdi",
+    "kicker": "Voqea: 08-Noyabr, 2026 · Manba: 08-Noyabr, 2026 · AiNoma: 08-Noyabr, 2026",
+    "deck": "Google DeepMind kompaniyasining navbatdagi sig'imli Sun’iy intellekt modeli mantiqiy fikrlash va agentlik tizimlarida yangi me'yorlarni belgilamoqda.",
+    "event_date": "2026-11-08",
+    "source_published_date": "2026-11-08",
+    "ainoma_published_date": "2026-11-08",
+    "ainoma_updated_date": "2026-11-08",
+    "author": "AiNoma Tahririyati",
+    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
+    "readTime": "4 daqiqalik mutolaa",
+    "category": "Dunyo Texnologiya",
+    "audience": "mutaxassislar biznes",
+    "img": "assets/google_gemini_banner.jpg",
+    "imgAlt": "Google DeepMind Gemini 4 Argon taqdimoti",
+    "qisqacha": [
+      "Google DeepMind Gemini 4 Argon nomli eng so'nggi Sun’iy intellekt flagmanini e'lon qildi.",
+      "Tizim murakkab mantiqiy zanjirlar va koding topshiriqlarida samaradorlikni 40 foizga oshirgan.",
+      "Biznes jarayonlarni avtomatlashtirish uchun ko'p bosqichli agentlik imkoniyatlari kengaytirildi."
+    ],
+    "primary_source": {
+      "name": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "date": "08.11.2026",
+      "badge": "BIRLAMCHI MANBA"
+    },
+    "secondary_sources": [],
+    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Google DeepMind tadqiqotchilari hamda muhandislari o‘zlarining navbatdagi frontier darajadagi modeli — <strong>Gemini 4 Argon</strong> taqdimotini o‘tkazishdi. Yangi Sun’iy intellekt arxitekturasi ko‘p modulli (multimodal) ma’lumotlarni qayta ishlash hamda murakkab rejalashtirish topshiriqlarini bajarishda ilgari kuzatilmagan natijalarni namoyish qilmoqda.</p>\n<p>Muhandislar modelning hisoblash resurslaridan foydalanish samaradorligini oshirishgan, bu esa katta hajmdagi koding va tahliliy topshiriqlarni tezroq va arzonroq bajarish imkoniyatini beradi.</p>\n\n<h2>Nega muhim?</h2>\n<p>Gemini 4 Argon shunchaki matnli savol-javob vositasi emas, balki ko‘p bosqichli mantiqiy qarorlar qabul qila oladigan avtonom agent sifatida shakllantirilgan. Tizimlashtirilgan algoritmlar tufayli ushbu model dasturlash kodi, moliya hisobotlari hamda multimodal resurslarni bir vaqtning o‘zida tahlil qilish imkoniga ega.</p>\n<p>Ushbu yangilanish bozor uchun muhim belgi hisoblanadi: Sun’iy intellekt modellari endilikda oddiy muloqot vositasidan to‘liq avtomatlashtirilgan ijrochi agentlarga aylanmoqda.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li><strong>Mantiqiy zanjirlar:</strong> Kontekst darchasi va murakkab algoritmlar tahlilida aniqlik sezilarli darajada oshgan.</li>\n      <li><strong>Dasturlash va koding:</strong> Kod arxitekturasini sintez qilish va refaktoring sifatidagi natijalar yaxshilangan.</li>\n      <li><strong>API imkoniyatlari:</strong> Dasturchilar uchun agentlik vositalarini integratsiya qilish tezligi ortgan.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li><strong>Xarajatlarni optimallashtirish:</strong> Resurslar samaradorligi oshishi evaziga bir so‘rov narxi arzonlashadi.</li>\n      <li><strong>Avtonom jarayonlar:</strong> Hujjatlar aylanishi va tahliliy jarayonlarni inson omilisiz zanjirsimon boshqarish mumkin.</li>\n      <li><strong>Kiberxavfsizlik:</strong> Model ma’lumotlar sizib chiqishi hamda nojo‘ya so‘rovlarni rad etish bo‘yicha yangi xavfsizlik standartlariga ega.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekiston IT ekotizimi va mahalliy startaplar uchun Gemini 4 Argon API texnologiyalarini tatbiq etish imkoniyati paydo bo‘ladi. Ayniqsa, fintex, elektron tijorat hamda davlat xizmatlarini raqamlashtirishda ko‘p tilli mantiqiy agentlardan foydalanish operatsion xarajatlarni qisqartirishga xizmat qiladi. Mahalliy dasturchilar va muhandislar ushbu vositalar orqali global bozorga mo‘ljallangan mahsulotlarni tezroq va sifatliroq tayyorlashlari mumkin.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li>Gemini 4 Argon modelining texnik hujjatlari va API imkoniyatlarini o‘rganib chiqing.</li>\n    <li>Kompaniyangizdagi takrorlanuvchi va murakkab operatsiyalarni agentlik modellari orqali avtomatlashtirish rejasini tuzing.</li>\n    <li>Axborot xavfsizligi talablarini yangilangan Sun’iy intellekt imkoniyatlariga mos holda qayta ko‘rib chiqing.</li>\n  </ol>\n</div>",
+    "verification_status": "VERIFIED",
+    "verification_date": "2026-11-08"
+  },
+  "bill-geyts-suniy-intellekt-xavfi-2026": {
+    "id": "bill-geyts-suniy-intellekt-xavfi-2026",
+    "slug": "bill-geyts-suniy-intellekt-xavfi-2026",
+    "title": "Bill Geyts Sun’iy Intellekt Pandemiyasidan Ogohlantirdi",
+    "kicker": "Voqea: 06-Noyabr, 2026 · Manba: 06-Noyabr, 2026 · AiNoma: 08-Noyabr, 2026",
+    "deck": "Microsoft asoschisi Sun’iy intellektdan biologik qurollar sintez qilish va kiberhujumlar uyushtirishda foydalanish oqibatlaridan ogohlantirdi.",
+    "event_date": "2026-11-06",
+    "source_published_date": "2026-11-06",
+    "ainoma_published_date": "2026-11-08",
+    "ainoma_updated_date": "2026-11-08",
+    "author": "AiNoma Tahririyati",
+    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
+    "readTime": "4 daqiqalik mutolaa",
+    "category": "Dunyo Texnologiya",
+    "audience": "mutaxassislar biznes",
+    "img": "assets/ai_network.jpg",
+    "imgAlt": "Sun’iy intellekt xavfsizligi va global tarmoqlar",
+    "qisqacha": [
+      "Bill Geyts Sun’iy intellekt xavfini COVID-19 pandemiyasidan ham og‘irroq bo‘lishi mumkinligini ta’kidladi.",
+      "Asosiy tahdidlar: biologik patogenlarni sintez qilish va ommaviy kiberhujumlar o‘tkazish imkoniyati.",
+      "Global IT va davlat sektoridan kiberxavfsizlik mudofaasini zudlik bilan kuchaytirish talab etiladi."
+    ],
+    "primary_source": {
+      "name": "Spot.uz IT & Biznes",
+      "title": "“Sun'iy intellekt COVID-19'dan ham yomonroq pandemiya bo‘lishi mumkin” — Bill Geyts",
+      "url": "https://www.spot.uz/oz/2026/11/06/gates-about-ai/",
+      "date": "06.11.2026",
+      "badge": "BIRLAMCHI MANBA"
+    },
+    "secondary_sources": [
+      {
+        "name": "GatesNotes",
+        "title": "The Risks of AI and How to Mitigate Them",
+        "url": "https://www.gatesnotes.com/The-Risks-of-AI-and-How-to-Mitigate-Them",
+        "date": "06.11.2026",
+        "badge": "MUSTAQIL MANBA"
+      }
+    ],
+    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Microsoft hamasoschisi Bill Geyts Sun’iy intellekt texnologiyalarining nazoratsiz rivojlanishi insoniyat uchun COVID-19 pandemiyasidan ham og‘irroq oqibatlarga olib kelishi mumkinligidan ogohlantirdi. Uning ta’kidlashicha, yangi avlod modellaridan xavfli biologik birikmalar va viruslarni sintez qilish hamda muhim infratuzilmalarga kiberhujumlar uyushtirishda foydalanish xavfi kundan-kunga ortib bormoqda.</p>\n\n<h2>Nega muhim?</h2>\n<p>Zamonaviy biotexnologiya va generativ modellarining rivojlanishi murakkab bilimlarga kirish to‘sig‘ini keskin pasaytirdi. Bu holat nafaqat ilmiy tadqiqotlarni tezlashtiradi, balki g‘arazli maqsadlarda foydalanuvchilar uchun ham yangi imkoniyatlar ochadi. Shu sababli global miqyosda Sun’iy intellekt xavfsizligi va nazorati bo‘yicha qat’iy standartlarni ishlab chiqish kechiktirib bo‘lmas vazifaga aylanmoqda.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li>Bio-informatika va molekulyar modellardagi xavfsizlik cheklovlarini (guardrails) kuchaytirish.</li>\n      <li>Avtonom kiberhujumlarga qarshi durust va chidamli mudofaa tizimlarini loyihalash.</li>\n      <li>Open-source modellarni tarqatishda xavfsizlik auditini majburiy kiritish.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li>Korporativ kiberxavfsizlik va infratuzilma himoyasiga yo‘naltirilgan investitsiyalarni oshirish.</li>\n      <li>Kiber-tahdidlarga qarshi sug‘urtalash va komplayens (compliance) tizimlarini shakllantirish.</li>\n      <li>Biznes jarayonlarida Sun’iy intellekt vositalaridan foydalanish bo‘yicha ichki xavfsizlik siyosatini joriy etish.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekistonning jadal raqamlashtirilayotgan bank-moliya va davlat sektori uchun kiberxavfsizlik masalasi birinchi darajali ahamiyatga ega bo‘ladi. Mahalliy IT mutaxassislari va kiberxavfsizlik tuzilmalari Sun’iy intellekt vositalaridan kelayotgan tahdidlarni barvaqt aniqlash hamda milliy kiber-makonni himoya qilish imkoniyatlarini kengaytirishlari zarur.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li>Siz o‘z tashkilotingizdagi kiberxavfsizlik protokollarini auditdan o‘tkazing va yangilang.</li>\n    <li>Xodimlaringiz uchun Sun’iy intellekt yordamida amalga oshiriladigan fishing va ijtimoiy muhandislik hujumlariga qarshi treninglar tashkil qiling.</li>\n    <li>Ichki ma’lumotlar bazasiga kirish va ruxsatnomalar boshqaruvini qat’iylashtiring.</li>\n  </ol>\n</div>",
+    "verification_status": "VERIFIED",
+    "verification_date": "2026-11-08"
+  },
   "dizaynerlar-uchun-ai": {
     "id": "dizaynerlar-uchun-ai",
     "slug": "dizaynerlar-uchun-ai",
