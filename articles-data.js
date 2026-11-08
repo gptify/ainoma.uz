@@ -1,80 +1,6 @@
+// AiNoma Central Content Database
+// Generated & Synchronized automatically
 window.AINOMA_ARTICLES = {
-  "google-gemini-4-argon-reliz": {
-    "id": "google-gemini-4-argon-reliz",
-    "slug": "google-gemini-4-argon-reliz",
-    "title": "Google yangi Gemini 4 Argon modelini taqdim etdi",
-    "kicker": "Voqea: 08-Noyabr, 2026 · Manba: 08-Noyabr, 2026 · AiNoma: 08-Noyabr, 2026",
-    "deck": "Google DeepMind kompaniyasining navbatdagi sig'imli Sun’iy intellekt modeli mantiqiy fikrlash va agentlik tizimlarida yangi me'yorlarni belgilamoqda.",
-    "event_date": "2026-11-08",
-    "source_published_date": "2026-11-08",
-    "ainoma_published_date": "2026-11-08",
-    "ainoma_updated_date": "2026-11-08",
-    "author": "AiNoma Tahririyati",
-    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
-    "readTime": "4 daqiqalik mutolaa",
-    "category": "Dunyo Texnologiya",
-    "audience": "mutaxassislar biznes",
-    "img": "assets/google_gemini_banner.jpg",
-    "imgAlt": "Google DeepMind Gemini 4 Argon taqdimoti",
-    "qisqacha": [
-      "Google DeepMind Gemini 4 Argon nomli eng so'nggi Sun’iy intellekt flagmanini e'lon qildi.",
-      "Tizim murakkab mantiqiy zanjirlar va koding topshiriqlarida samaradorlikni 40 foizga oshirgan.",
-      "Biznes jarayonlarni avtomatlashtirish uchun ko'p bosqichli agentlik imkoniyatlari kengaytirildi."
-    ],
-    "primary_source": {
-      "name": "Google DeepMind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "date": "08.11.2026",
-      "badge": "BIRLAMCHI MANBA"
-    },
-    "secondary_sources": [],
-    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Google DeepMind tadqiqotchilari hamda muhandislari o‘zlarining navbatdagi frontier darajadagi modeli — <strong>Gemini 4 Argon</strong> taqdimotini o‘tkazishdi. Yangi Sun’iy intellekt arxitekturasi ko‘p modulli (multimodal) ma’lumotlarni qayta ishlash hamda murakkab rejalashtirish topshiriqlarini bajarishda ilgari kuzatilmagan natijalarni namoyish qilmoqda.</p>\n<p>Muhandislar modelning hisoblash resurslaridan foydalanish samaradorligini oshirishgan, bu esa katta hajmdagi koding va tahliliy topshiriqlarni tezroq va arzonroq bajarish imkoniyatini beradi.</p>\n\n<h2>Nega muhim?</h2>\n<p>Gemini 4 Argon shunchaki matnli savol-javob vositasi emas, balki ko‘p bosqichli mantiqiy qarorlar qabul qila oladigan avtonom agent sifatida shakllantirilgan. Tizimlashtirilgan algoritmlar tufayli ushbu model dasturlash kodi, moliya hisobotlari hamda multimodal resurslarni bir vaqtning o‘zida tahlil qilish imkoniga ega.</p>\n<p>Ushbu yangilanish bozor uchun muhim belgi hisoblanadi: Sun’iy intellekt modellari endilikda oddiy muloqot vositasidan to‘liq avtomatlashtirilgan ijrochi agentlarga aylanmoqda.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li><strong>Mantiqiy zanjirlar:</strong> Kontekst darchasi va murakkab algoritmlar tahlilida aniqlik sezilarli darajada oshgan.</li>\n      <li><strong>Dasturlash va koding:</strong> Kod arxitekturasini sintez qilish va refaktoring sifatidagi natijalar yaxshilangan.</li>\n      <li><strong>API imkoniyatlari:</strong> Dasturchilar uchun agentlik vositalarini integratsiya qilish tezligi ortgan.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li><strong>Xarajatlarni optimallashtirish:</strong> Resurslar samaradorligi oshishi evaziga bir so‘rov narxi arzonlashadi.</li>\n      <li><strong>Avtonom jarayonlar:</strong> Hujjatlar aylanishi va tahliliy jarayonlarni inson omilisiz zanjirsimon boshqarish mumkin.</li>\n      <li><strong>Kiberxavfsizlik:</strong> Model ma’lumotlar sizib chiqishi hamda nojo‘ya so‘rovlarni rad etish bo‘yicha yangi xavfsizlik standartlariga ega.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekiston IT ekotizimi va mahalliy startaplar uchun Gemini 4 Argon API texnologiyalarini tatbiq etish imkoniyati paydo bo‘ladi. Ayniqsa, fintex, elektron tijorat hamda davlat xizmatlarini raqamlashtirishda ko‘p tilli mantiqiy agentlardan foydalanish operatsion xarajatlarni qisqartirishga xizmat qiladi. Mahalliy dasturchilar va muhandislar ushbu vositalar orqali global bozorga mo‘ljallangan mahsulotlarni tezroq va sifatliroq tayyorlashlari mumkin.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li>Gemini 4 Argon modelining texnik hujjatlari va API imkoniyatlarini o‘rganib chiqing.</li>\n    <li>Kompaniyangizdagi takrorlanuvchi va murakkab operatsiyalarni agentlik modellari orqali avtomatlashtirish rejasini tuzing.</li>\n    <li>Axborot xavfsizligi talablarini yangilangan Sun’iy intellekt imkoniyatlariga mos holda qayta ko‘rib chiqing.</li>\n  </ol>\n</div>",
-    "verification_status": "VERIFIED",
-    "verification_date": "2026-11-08"
-  },
-  "bill-geyts-suniy-intellekt-xavfi-2026": {
-    "id": "bill-geyts-suniy-intellekt-xavfi-2026",
-    "slug": "bill-geyts-suniy-intellekt-xavfi-2026",
-    "title": "Bill Geyts Sun’iy Intellekt Pandemiyasidan Ogohlantirdi",
-    "kicker": "Voqea: 06-Noyabr, 2026 · Manba: 06-Noyabr, 2026 · AiNoma: 08-Noyabr, 2026",
-    "deck": "Microsoft asoschisi Sun’iy intellektdan biologik qurollar sintez qilish va kiberhujumlar uyushtirishda foydalanish oqibatlaridan ogohlantirdi.",
-    "event_date": "2026-11-06",
-    "source_published_date": "2026-11-06",
-    "ainoma_published_date": "2026-11-08",
-    "ainoma_updated_date": "2026-11-08",
-    "author": "AiNoma Tahririyati",
-    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
-    "readTime": "4 daqiqalik mutolaa",
-    "category": "Dunyo Texnologiya",
-    "audience": "mutaxassislar biznes",
-    "img": "assets/ai_network.jpg",
-    "imgAlt": "Sun’iy intellekt xavfsizligi va global tarmoqlar",
-    "qisqacha": [
-      "Bill Geyts Sun’iy intellekt xavfini COVID-19 pandemiyasidan ham og‘irroq bo‘lishi mumkinligini ta’kidladi.",
-      "Asosiy tahdidlar: biologik patogenlarni sintez qilish va ommaviy kiberhujumlar o‘tkazish imkoniyati.",
-      "Global IT va davlat sektoridan kiberxavfsizlik mudofaasini zudlik bilan kuchaytirish talab etiladi."
-    ],
-    "primary_source": {
-      "name": "Spot.uz IT & Biznes",
-      "title": "“Sun'iy intellekt COVID-19'dan ham yomonroq pandemiya bo‘lishi mumkin” — Bill Geyts",
-      "url": "https://www.spot.uz/oz/2026/11/06/gates-about-ai/",
-      "date": "06.11.2026",
-      "badge": "BIRLAMCHI MANBA"
-    },
-    "secondary_sources": [
-      {
-        "name": "GatesNotes",
-        "title": "The Risks of AI and How to Mitigate Them",
-        "url": "https://www.gatesnotes.com/The-Risks-of-AI-and-How-to-Mitigate-Them",
-        "date": "06.11.2026",
-        "badge": "MUSTAQIL MANBA"
-      }
-    ],
-    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Microsoft hamasoschisi Bill Geyts Sun’iy intellekt texnologiyalarining nazoratsiz rivojlanishi insoniyat uchun COVID-19 pandemiyasidan ham og‘irroq oqibatlarga olib kelishi mumkinligidan ogohlantirdi. Uning ta’kidlashicha, yangi avlod modellaridan xavfli biologik birikmalar va viruslarni sintez qilish hamda muhim infratuzilmalarga kiberhujumlar uyushtirishda foydalanish xavfi kundan-kunga ortib bormoqda.</p>\n\n<h2>Nega muhim?</h2>\n<p>Zamonaviy biotexnologiya va generativ modellarining rivojlanishi murakkab bilimlarga kirish to‘sig‘ini keskin pasaytirdi. Bu holat nafaqat ilmiy tadqiqotlarni tezlashtiradi, balki g‘arazli maqsadlarda foydalanuvchilar uchun ham yangi imkoniyatlar ochadi. Shu sababli global miqyosda Sun’iy intellekt xavfsizligi va nazorati bo‘yicha qat’iy standartlarni ishlab chiqish kechiktirib bo‘lmas vazifaga aylanmoqda.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li>Bio-informatika va molekulyar modellardagi xavfsizlik cheklovlarini (guardrails) kuchaytirish.</li>\n      <li>Avtonom kiberhujumlarga qarshi durust va chidamli mudofaa tizimlarini loyihalash.</li>\n      <li>Open-source modellarni tarqatishda xavfsizlik auditini majburiy kiritish.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li>Korporativ kiberxavfsizlik va infratuzilma himoyasiga yo‘naltirilgan investitsiyalarni oshirish.</li>\n      <li>Kiber-tahdidlarga qarshi sug‘urtalash va komplayens (compliance) tizimlarini shakllantirish.</li>\n      <li>Biznes jarayonlarida Sun’iy intellekt vositalaridan foydalanish bo‘yicha ichki xavfsizlik siyosatini joriy etish.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekistonning jadal raqamlashtirilayotgan bank-moliya va davlat sektori uchun kiberxavfsizlik masalasi birinchi darajali ahamiyatga ega bo‘ladi. Mahalliy IT mutaxassislari va kiberxavfsizlik tuzilmalari Sun’iy intellekt vositalaridan kelayotgan tahdidlarni barvaqt aniqlash hamda milliy kiber-makonni himoya qilish imkoniyatlarini kengaytirishlari zarur.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li>Siz o‘z tashkilotingizdagi kiberxavfsizlik protokollarini auditdan o‘tkazing va yangilang.</li>\n    <li>Xodimlaringiz uchun Sun’iy intellekt yordamida amalga oshiriladigan fishing va ijtimoiy muhandislik hujumlariga qarshi treninglar tashkil qiling.</li>\n    <li>Ichki ma’lumotlar bazasiga kirish va ruxsatnomalar boshqaruvini qat’iylashtiring.</li>\n  </ol>\n</div>",
-    "verification_status": "VERIFIED",
-    "verification_date": "2026-11-08"
-  },
   "dizaynerlar-uchun-ai": {
     "id": "dizaynerlar-uchun-ai",
     "slug": "dizaynerlar-uchun-ai",
@@ -145,48 +71,6 @@ window.AINOMA_ARTICLES = {
     },
     "secondary_sources": [],
     "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Sun’iy intellekt sohasidagi eng yirik to‘rtta texnologiya giganti — <strong>OpenAI, Google, Microsoft va Anthropic</strong> veb-sayt egalariga o‘z kontentlarini AI modellarini o‘qitishda ishlatilishidan himoyalash imkonini beruvchi yagona <code>robots.txt</code> standartini qabul qilish bo‘yicha kelishuvga erishdi.</p>\n<p>Ilgari sayt ma’murlari har bir kompaniyaning alohida qidiruv botini (masalan, OpenAI uchun <code>GPTBot</code>, Anthropic uchun <code>ClaudeBot</code>, Google uchun <code>Google-Extended</code>) qo‘lda bloklashi talab etilar edi. Yangi kelishuvga ko‘ra, Internet Engineering Task Force (IETF) qoshidagi AIPREF ishchi guruhi tomonidan ishlab chiqilgan yagona <code>__usage_ai-training</code> direktivasi barcha yetakchi modellar uchun umumiy qoida sifatida amal qiladi.</p>\n\n<h2>Nega muhim?</h2>\n<p>Ushbu qadam veb-noshirlar, media platformalar va mualliflar bilan generativ AI kompaniyalari o‘rtasidagi ko‘p yillik ma’lumotlar yig‘ish (scraping) mojarolariga barham berishga qaratilgan. Yangi standart ma’lumotlarni o‘qitish (training) jarayoni bilan chat-yordamchilarining jonli faktlarni qidirishi (grounding) o‘rtasidagi chegarani aniq belgilab beradi.</p>\n<p>Masalan, agar sayt egasi o‘z kontentini o‘qitishdan cheklasa, qidiruv tizimlari (Google Search yoki Bing) sayt sahifalarini qidiruv natijalarida ko‘rsatishda davom etadi, biroq ushbu ma’lumotlar kelajakdagi katta til modellarining parametrlarini yangilash uchun olinmaydi.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li>Endi <code>robots.txt</code> faylida o‘nlab crawler nomlarini yozish o‘rniga yagona <code>User-Agent: __usage_ai-training</code> direktivasini qo‘llash kifoya.</li>\n      <li>Standart faqat bazaviy modellarni o‘qitishga taalluqli bo‘lib, API orqali qidiruv indeksatsiyasiga xalaqit bermaydi.</li>\n      <li>Anthropic standartni darhol joriy etdi, Microsoft va Google esa 2027-yil boshidan to‘liq o‘tishini ma’lum qildi.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li>Kompaniya veb-resurslari, intellektual mulki va maqolalari begona AI tizimlari tomonidan tekinga o‘zlashtirilishining oldi olinadi.</li>\n      <li>Raqamli media va bloglar uchun o‘z auditoriyasi va trafik oqimini himoyalashning rasmiy huquqiy va texnik dastagi paydo bo‘ldi.</li>\n      <li>IT ma’murlari va veb-ustalar uchun doimiy ravishda yangilanib turuvchi botlar ro‘yxatini nazorat qilish yuklamasi keskin kamayadi.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekistondagi axborot nashrlari, tahliliy portallar va mualliflik platformalari o‘zbek tilidagi qimmatli ma’lumotlar bazasini himoyalashda ushbu standartdan foydalanishlari mumkin. Veb-sayt ma’murlari o‘zlarining <code>robots.txt</code> fayliga yangi tokeni kiritish orqali qidiruv tizimlaridagi reytingni yo‘qotmagan holda AI o‘qitilishini to‘xtatib qo‘ya oladilar.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy tavsiyalar)</div>\n  <ol>\n    <li>Saytingizning <code>robots.txt</code> faylini tekshiring va <code>User-Agent: __usage_ai-training</code> direktivasini rejalashtiring.</li>\n    <li>Kompaniyangiz ochiq ma’lumotlari qaysi sun’iy intellekt tizimlari tomonidan o‘qitilayotganini tahlil qiling.</li>\n    <li>Qidiruv indeksatsiyasi va AI o‘qitilishi o‘rtasidagi farqni tushunib, marketing jamoangiz bilan siyosatni muvofiqlashtiring.</li>\n  </ol>\n</div>",
-    "verification_status": "VERIFIED",
-    "verification_date": "2026-11-07"
-  },
-  "gemini-omni-1-2-flash-relizi": {
-    "id": "gemini-omni-1-2-flash-relizi",
-    "slug": "gemini-omni-1-2-flash-relizi",
-    "title": "Google arzon va tezkor Gemini omni modelini chiqardi",
-    "kicker": "Voqea: 05-Noyabr, 2026 · Manba: 05-Noyabr, 2026 · AiNoma: 07-Noyabr, 2026",
-    "deck": "Google DeepMind uzoq video va audio oqimlarini ancha arzon narxda qayta ishlovchi Gemini Omni 1.2 Flash modelini taqdim etdi.",
-    "event_date": "2026-11-05",
-    "source_published_date": "2026-11-05",
-    "ainoma_published_date": "2026-11-07",
-    "ainoma_updated_date": "2026-11-07",
-    "author": "AiNoma Tahririyati",
-    "authorRole": "Frontier AI & Tizimlar Arxitekturasi",
-    "readTime": "4 daqiqalik mutolaa",
-    "category": "Dunyo Texnologiya",
-    "audience": "mutaxassislar biznes",
-    "img": "assets/google_gemini_video_workflow_2026.jpg",
-    "imgAlt": "Google Gemini Omni 1.2 Flash banneri",
-    "qisqacha": [
-      "Google DeepMind multimodal ma'lumotlarni qayta ishlashga ixtisoslashgan Gemini Omni 1.2 Flash modelini chiqardi.",
-      "Yangi arxitektura uzoq video va audio kliplarni tahlil qilish kechikishini keskin qisqartirdi va hisoblash tannarxini pasaytirdi.",
-      "Model real vaqt rejimidagi ko'rish va ovozli o'zaro aloqa stsenariylari uchun maxsus optimallashtirilgan."
-    ],
-    "primary_source": {
-      "name": "Google DeepMind",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "date": "07.11.2026",
-      "badge": "BIRLAMCHI MANBA"
-    },
-    "secondary_sources": [
-      {
-        "name": "Google for Developers",
-        "title": "Gemini 1.2 Flash API Documentation & Latency Benchmarks",
-        "url": "https://ai.google.dev/docs/gemini-1-2-flash",
-        "date": "07.11.2026",
-        "badge": "TEXNIK HUJJAT"
-      }
-    ],
-    "contentHtml": "<h2>Nima bo‘ldi?</h2>\n<p>Google DeepMind tadqiqotchilari uzoq video, audio va vizual oqimlarni tezkor tahlil qilishga qodir yangi <strong>Gemini Omni 1.2 Flash</strong> modelini ommaga taqdim etdi. Mazkur model avvalgi avlodlarga qaraganda hisoblash resurslarini ancha kam sarflaydi va uzluksiz multimodal kiritmalarni real vaqt rejimida qayta ishlash imkonini beradi.</p>\n<p>Ishlab chiquvchilarning ta’kidlashicha, yangi arxitektura multimodal ma’lumotlarni fragmentlash va siqish algoritmlarini yangilagan. Natijada yirik video fayllarni yoki o‘nlab daqiqalik audio yozuvlarni qabul qilishda kechikish (latency) minimal darajaga tushirilgan, API orqali so‘rov yuborish xarajatlari esa sezilarli pasaygan.</p>\n\n<h2>Nega muhim?</h2>\n<p>Hozirgacha uzoq videolarni Sun’iy intellekt orqali tahlil qilish korxonalar uchun juda qimmatga tushar, ko‘plab kadrlar tahlili hisoblash quvvatlarini haddan tashqari band qilar edi. Gemini Omni 1.2 Flash aynan shu muammoni hal etib, multimodal vositalarni keng ko‘lamli amaliyotga joriy etish yo‘lini ochmoqda.</p>\n<p>Bu orqali Siz real vaqtda videokuzatuv tahlili, jonli efirlarni sinxron tarjima qilish va murakkab media arxivlarni arzon narxda avtomatlashtirish imkoniyatiga ega bo‘lasiz.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li><strong>Kengaytirilgan kontekst darchasi:</strong> Ko‘p soatlik video va audio oqimlarini semantik xatolarsiz tahlil qilish.</li>\n      <li><strong>Sub-soniya kechikish:</strong> Multimodal stream kiritmalarida javob qaytarish tezligi amaliy real vaqt rejimiga moslashtirilgan.</li>\n      <li><strong>Optimallashtirilgan tokenizatsiya:</strong> Video kadrlarni kamroq token sarflagan holda yuqori aniqlikda kodlash mexanizmi.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li><strong>Infratuzilma tannarxining pasayishi:</strong> Har bir soatlik video yoki audio tahlili narxining sezilarli darajada arzonlashuvi.</li>\n      <li><strong>Yangi mijozlar tajribasi:</strong> Ovoz va tasvirni bir zumda tushunadigan interaktiv virtual maslahatchilarni yo‘lga qo‘yish imkoni.</li>\n      <li><strong>Avtomatlashgan sifat nazorati:</strong> Do‘konlar, omborlar yoki xizmat ko‘rsatish nuqtalaridagi videotasvirlarni real vaqtda qayta ishlash.</li>\n    </ul>\n  </div>\n</div>\n\n<div class=\"uz-impact-box\">\n  <div class=\"uz-impact-title\">Bu O‘zbekiston uchun nimani anglatadi?</div>\n  <p>O‘zbekiston bozorida xavfsizlik kameralari tahlili, banklardagi mijozlarga xizmat ko‘rsatish zallari monitoringi hamda ta’lim platformalaridagi video-darslarni tahlil qilish ehtiyoji yuqori. Ilgari yuqori hisoblash xarajatlari tufayli to‘xtab turgan ko‘plab startap va loyihalar endi Gemini Omni 1.2 Flash modeli orqali o‘z biznes modellarini iqtisodiy jihatdan foydali ko‘rinishga keltira oladi.</p>\n</div>\n\n<div class=\"action-checklist\">\n  <div class=\"action-checklist-title\">🎯 Endi nima qilish kerak? (Siz uchun amaliy qadamlar)</div>\n  <ol>\n    <li>Google AI Studio orqali Gemini Omni 1.2 Flash API parametrlarini sinovdan o‘tkazing.</li>\n    <li>Kompaniyangizdagi audio va video arxivlarni qayta ishlash xarajatlarini yangi tariflar bo‘yicha qayta hisoblab chiqing.</li>\n    <li>Jonli efir yoki videoni matnga o‘girish tizimlaringizda kechikish vaqtini yangi model yordamida benchmark qiling.</li>\n  </ol>\n</div>",
     "verification_status": "VERIFIED",
     "verification_date": "2026-11-07"
   },
@@ -1046,7 +930,7 @@ window.AINOMA_ARTICLES = {
       {
         "name": "Block Open Source",
         "title": "Goose: An open source, extensible AI agent that supercharges your developer experience",
-        "url": "https://github.com/block/goose",
+        "url": "https://block.github.io/goose/",
         "date": "31.10.2026",
         "badge": "MUSTAQIL MANBA"
       }
@@ -6742,5 +6626,119 @@ window.AINOMA_ARTICLES = {
     ],
     "contentHtml": "\n<h2>Nima bo‘ldi?</h2>\n<p>Anthropic 2026-yil 1-sentabrda o‘zining eng yangi flagman <strong>Claude Fable 5.1</strong> modelini hamda kiberxavfsizlik va biologiya sohasidagi maxsus loyihalar uchun mo‘ljallangan <strong>Claude Mythos 5.1</strong> modelini taqdim etdi. Yangilanish agentik tizimlar foydalanadigan prompt kesh narxini 75% ga kamaytirish bilan birga, yirik korxonalarga ma’lumotlarni nol saqlash (zero data retention) rejimini taqdim etdi.</p>\n\n<h2>Nega muhim?</h2>\n<p>Agentik tizimlar har safar butun loyiha kodini yoki 100 sahifalik hujjatni qayta o‘qiganda kesh xizmatidan foydalanadi. Kesh narxining $0.25 gacha tushishi korxonalar uchun yillik operatsion xarajatlarni 3-4 barobarga qisqartiradi.</p>\n\n<div class=\"audience-grid\">\n  <div class=\"lens-box tech\">\n    <div class=\"lens-title\">👤 Mutaxassislar uchun</div>\n    <ul>\n      <li><strong>128k tokenlik chiqish:</strong> Bir so‘rovda to‘liq dasturiy arxitekturalar yoki kitob hajmida kod generatsiyasi.</li>\n      <li><strong>Kesh optimallashtirish:</strong> Takroriy so‘rovlarda sezilarli iqtisod va yuqori tezlik.</li>\n    </ul>\n  </div>\n  <div class=\"lens-box biz\">\n    <div class=\"lens-title\">🏢 Biznes uchun</div>\n    <ul>\n      <li><strong>Zero Data Retention:</strong> Bank va tibbiyot sirlari model xotirasida mutlaqo saqlanmaydi.</li>\n      <li><strong>Agentlar xarajati arzonlashuvi:</strong> Katta jamoalar uchun agentlarni saqlash osonlashadi.</li>\n    </ul>\n  </div>\n</div>\n",
     "body": ""
+  },
+  "metr-anthropic-ai-tadqiqot-tezligi-2x-2026": {
+    "id": "metr-anthropic-ai-tadqiqot-tezligi-2x-2026",
+    "slug": "metr-anthropic-ai-tadqiqot-tezligi-2x-2026",
+    "title": "Mustaqil METR hisoboti: Anthropic AI o'zini o'zi tadqiq qilish hisobiga 2 barobar tezlashdi",
+    "kicker": "AI R&D VA TEZLIK · ANTHROPIC",
+    "meta_title": "METR hisoboti: Anthropic AI modellari o'zini o'zi o'qitish hisobiga 2x tezlashdi — AiNoma",
+    "meta_description": "Mustaqil METR tashkiloti baholashiga ko'ra, Anthropic modellarining yangi vazifalarni o'zlashtirish tezligi 1.9 barobarga o'sgan va uning asosiy qismini sun'iy intellekt agentlari bajargan.",
+    "category": "Xalqaro",
+    "audience": "Dasturchilar, muhandislar, tadqiqotchilar",
+    "event_date": "2026-11-07",
+    "source_date": "2026-11-07",
+    "source_published_date": "2026-11-07",
+    "date": "2026-11-08",
+    "publish_date": "2026-11-08",
+    "img": "assets/anthropic_claude_banner.jpg",
+    "imgAlt": "Anthropic AI tadqiqotlarini o'zi o'tkazmoqda",
+    "qisqacha": [
+      "METR mustaqil baholashiga ko'ra, Anthropic modellarining takomillashish sur'ati 1.9x (deyarli 2 barobar) tezlashgan.",
+      "Tadqiqotdagi tezlanishning taxminan 80 foizi bevosita AI tizimlari orqali avtomatlashtirilgan ilmiy ishlanmalarga tayanadi.",
+      "Anthropic raqobat xavfsizligi vajidan bir qator ichki dalillarni yopiq qoldirgani jamoatchilikda savollar uyg'otdi."
+    ],
+    "primary_source": {
+      "name": "METR (Model Evaluation and Threat Research)",
+      "title": "Evaluating the Pace of AI Research at Anthropic",
+      "url": "https://metr.org/blog/2026-11-07-anthropic-progress-rate/",
+      "badge": "MUSTAQIL AUDIT"
+    },
+    "secondary_sources": [
+      {
+        "name": "Washington Times Tech",
+        "title": "Independent evaluators find AI systems driving rapid R&D acceleration at frontier labs",
+        "url": "https://www.washingtontimes.com/news/2026/nov/07/anthropic-metr-ai-evaluation-speedup/"
+      }
+    ],
+    "body": "<p><b>Qisqa javob:</b> Xavfsizlik va baholash bo'yicha mustaqil METR tashkiloti hisobotiga ko'ra, Anthropic laboratoriyasida modellar takomillashuvi taxminan 2 barobar tezlashgan. Muhimi, ushbu sur'at faqat hisoblash quvvati (compute) oshgani tufayli emas, balki sun'iy intellekt tizimlari tadqiqot jarayonlarining 80 foizini o'zi bajarayotgani sababli yuzaga kelmoqda.</p>\n\n<h2 class=\"article-section-title\">METR mustaqil auditi nimani ko'rsatdi?</h2>\n<p>METR jamoasi 11 hafta davomida Anthropic kompaniyasining ichki tadqiqot ma'lumotlari va muhandislar faoliyatini tahlil qilib chiqdi. Benchmark natijalariga ko'ra, modellar imkoniyatlarining o'sish koeffitsiyenti o'tgan davrlarga nisbatan <b>1.9x</b> ni tashkil qilgan (95 foizlik ishonch oralig'i: 1.5x dan 2.8x gacha). Bu oddiy qilib aytganda, ilgari ikki yil vaqt olgan texnologik marra endi bir yil ichida bosib o'tilayotganini bildiradi.</p>\n\n<h2 class=\"article-section-title\">Insonlar emas, AI o'zini o'zi tadqiq qilmoqda</h2>\n<p>Hisobotdagi eng muhim xulosa — ushbu sakrashning asosiy omilidir. Tahlilchilarning hisob-kitoblariga ko'ra, ilmiy-tadqiqot (R&D) tezlanishining qariyb 80 foizi muhandislar tomonidan dastur kodlarini tahlil qilish, arxitektura farazlarini tekshirish va tajribalarni avtomatlashtirishda bevosita AI agentlaridan foydalanilayotgani hisobiga erishilgan.</p>\n\n<h2 class=\"article-section-title\">Yashirin dalillar va noaniqliklar</h2>\n<p>Hisobot e'lon qilinishi bilan ilmiy doiralarda jiddiy munozara boshlandi. Bunga sabab — Anthropic tijoriy raqobatchilardan himoyalanish maqsadida xom texnik dalillarning asosiy qismini tahrirlab, yopiq shaklda taqdim etganidir. Shunga qaramay, METR mutaxassislari bu to'liq rekursiv o'z-o'zini rivojlantirish bo'lmasa-da, sun'iy intellekt vositalari bilan ilmiy izlanishlar tubdan o'zgarganini ta'kidlamoqda.</p>",
+    "contentHtml": "<p><b>Qisqa javob:</b> Xavfsizlik va baholash bo'yicha mustaqil METR tashkiloti hisobotiga ko'ra, Anthropic laboratoriyasida modellar takomillashuvi taxminan 2 barobar tezlashgan. Muhimi, ushbu sur'at faqat hisoblash quvvati (compute) oshgani tufayli emas, balki sun'iy intellekt tizimlari tadqiqot jarayonlarining 80 foizini o'zi bajarayotgani sababli yuzaga kelmoqda.</p>\n\n<h2 class=\"article-section-title\">METR mustaqil auditi nimani ko'rsatdi?</h2>\n<p>METR jamoasi 11 hafta davomida Anthropic kompaniyasining ichki tadqiqot ma'lumotlari va muhandislar faoliyatini tahlil qilib chiqdi. Benchmark natijalariga ko'ra, modellar imkoniyatlarining o'sish koeffitsiyenti o'tgan davrlarga nisbatan <b>1.9x</b> ni tashkil qilgan (95 foizlik ishonch oralig'i: 1.5x dan 2.8x gacha). Bu oddiy qilib aytganda, ilgari ikki yil vaqt olgan texnologik marra endi bir yil ichida bosib o'tilayotganini bildiradi.</p>\n\n<h2 class=\"article-section-title\">Insonlar emas, AI o'zini o'zi tadqiq qilmoqda</h2>\n<p>Hisobotdagi eng muhim xulosa — ushbu sakrashning asosiy omilidir. Tahlilchilarning hisob-kitoblariga ko'ra, ilmiy-tadqiqot (R&D) tezlanishining qariyb 80 foizi muhandislar tomonidan dastur kodlarini tahlil qilish, arxitektura farazlarini tekshirish va tajribalarni avtomatlashtirishda bevosita AI agentlaridan foydalanilayotgani hisobiga erishilgan.</p>\n\n<h2 class=\"article-section-title\">Yashirin dalillar va noaniqliklar</h2>\n<p>Hisobot e'lon qilinishi bilan ilmiy doiralarda jiddiy munozara boshlandi. Bunga sabab — Anthropic tijoriy raqobatchilardan himoyalanish maqsadida xom texnik dalillarning asosiy qismini tahrirlab, yopiq shaklda taqdim etganidir. Shunga qaramay, METR mutaxassislari bu to'liq rekursiv o'z-o'zini rivojlantirish bo'lmasa-da, sun'iy intellekt vositalari bilan ilmiy izlanishlar tubdan o'zgarganini ta'kidlamoqda.</p>",
+    "verification_status": "VERIFIED"
+  },
+  "aaronson-ambainis-kvant-nazariyasi-ai-isboti-2026": {
+    "id": "aaronson-ambainis-kvant-nazariyasi-ai-isboti-2026",
+    "slug": "aaronson-ambainis-kvant-nazariyasi-ai-isboti-2026",
+    "title": "Kvant hisoblashdagi 20 yillik jumboq AI tomonidan Lean 4 tizimida isbotlandi",
+    "kicker": "FUNDAMENTAL FAN · KVANT FIZIKASI",
+    "meta_title": "Aaronson-Ambainis kvant gipotezasi AI tomonidan Lean 4 da isbotlandi — AiNoma",
+    "meta_description": "Physical Superintelligence laboratoriyasi maxsus AI tadqiqot tizimi yordamida 2008-yildan beri ochiq turgan Aaronson-Ambainis kvant gipotezasini to'liq isbotladi.",
+    "category": "Texnologiya",
+    "audience": "Olimlar, fiziklar, dasturchilar",
+    "event_date": "2026-11-07",
+    "source_date": "2026-11-07",
+    "source_published_date": "2026-11-07",
+    "date": "2026-11-08",
+    "publish_date": "2026-11-08",
+    "img": "assets/claude_physics_9loop.jpg",
+    "imgAlt": "Kvant hisoblash nazariyasidagi matematik isbot",
+    "qisqacha": [
+      "Scott Aaronson va Andris Ambainis tomonidan 2008-yilda shakllantirilgan mashhur kvant gipotezasi AI tomonidan to'liq yechildi.",
+      "Avtonom AI tizimi 3 kunlik izlanishdan so'ng Lean 4 isbotlash dasturida qadamma-qadam tekshirilgan rasmiy yechimni hosil qildi.",
+      "Natija kvant kompyuterlarining tasodifiy ma'lumotlarda oddiy kompyuterlardan cheksiz ustun bo'la olmasligi chegarasini qat'iy belgilab beradi."
+    ],
+    "primary_source": {
+      "name": "Physical Superintelligence (PSI)",
+      "title": "AI Solves the Aaronson-Ambainis Conjecture via Lean 4 Formal Verification",
+      "url": "https://psi.inc/research/aaronson-ambainis-proof",
+      "badge": "ILMIY KASHFIYOT"
+    },
+    "secondary_sources": [
+      {
+        "name": "The Quantum Insider",
+        "title": "Autonomous AI Proves Decades-Old Quantum Complexity Conjecture",
+        "url": "https://thequantuminsider.com/2026/11/07/ai-solves-aaronson-ambainis-conjecture/"
+      }
+    ],
+    "body": "<p><b>Qisqa javob:</b> Kvant hisoblash sohasida 2008-yildan buyon eng katta ochiq muammolardan biri bo'lgan <i>Aaronson-Ambainis gipotezasi</i> sun'iy intellekt yordamida to'liq isbotlandi. Tadqiqot guruhi shunchaki matnli izoh bilan cheklanmasdan, har bir matematik mantiqiy qadamni Lean 4 rasmiy isbotlash dasturida xatosiz tekshiruvdan o'tkazdi.</p>\n\n<h2 class=\"article-section-title\">Aaronson-Ambainis gipotezasi nimani anglatadi?</h2>\n<p>Olimlar Scott Aaronson va Andris Ambainis 2008-yilda kvant algoritmlarining real chegaralarini aniqlash bo'yicha muhim savolni o'rtaga tashlagan edilar: kvant kompyuterlari hech qanday ichki qonuniyat yoki tuzilishga ega bo'lmagan tasodifiy ma'lumotlar to'plamida ham oddiy (klassik) kompyuterlardan eksponentsial darajada tez ishlay oladimi? Yangi isbot shuni ko'rsatdiki, javob — <b>yo'q</b>. Kvant ustunligi faqat yashirin matematik qonuniyatlar (masalan, Shor algoritmidagi davriy chastotalar) mavjud bo'lgandagina yuzaga chiqadi; aks holda, kvant tezligi polinom chegarasidan oshmaydi.</p>\n\n<h2 class=\"article-section-title\">Lean 4: Matematik xatolarga o'rin yo'q</h2>\n<p>Physical Superintelligence (PSI) laboratoriyasi ushbu kashfiyotni amalga oshirish uchun AI agentlarini Lean 4 interaktiv isbotlash muhitiga uladi. Bu yondashuv til modellariga xos \"gallyutsinatsiya\" yoki xato mantiqiy xulosalarni butunlay istisno qiladi, chunki Lean kompyuter dasturi har bir formulani qat'iy matematik qoidalar bo'yicha tekshirib boradi.</p>\n\n<h2 class=\"article-section-title\">Fan uchun amaliy ahamiyati</h2>\n<p>Ushbu ilmiy natija kvant fizikasi uchun qaysi muammolarni kvant hisoblashga topshirish foydali, qaysilarida esa klassik usullar yetarli ekanini aniq ko'rsatib beradi. Shu bilan birga, bu voqea sun'iy intellekt fundamental nazariy fanda inson aqli yetmagan murakkab jumbonqlarni mustaqil yecha olishining yorqin isbotiga aylandi.</p>",
+    "contentHtml": "<p><b>Qisqa javob:</b> Kvant hisoblash sohasida 2008-yildan buyon eng katta ochiq muammolardan biri bo'lgan <i>Aaronson-Ambainis gipotezasi</i> sun'iy intellekt yordamida to'liq isbotlandi. Tadqiqot guruhi shunchaki matnli izoh bilan cheklanmasdan, har bir matematik mantiqiy qadamni Lean 4 rasmiy isbotlash dasturida xatosiz tekshiruvdan o'tkazdi.</p>\n\n<h2 class=\"article-section-title\">Aaronson-Ambainis gipotezasi nimani anglatadi?</h2>\n<p>Olimlar Scott Aaronson va Andris Ambainis 2008-yilda kvant algoritmlarining real chegaralarini aniqlash bo'yicha muhim savolni o'rtaga tashlagan edilar: kvant kompyuterlari hech qanday ichki qonuniyat yoki tuzilishga ega bo'lmagan tasodifiy ma'lumotlar to'plamida ham oddiy (klassik) kompyuterlardan eksponentsial darajada tez ishlay oladimi? Yangi isbot shuni ko'rsatdiki, javob — <b>yo'q</b>. Kvant ustunligi faqat yashirin matematik qonuniyatlar (masalan, Shor algoritmidagi davriy chastotalar) mavjud bo'lgandagina yuzaga chiqadi; aks holda, kvant tezligi polinom chegarasidan oshmaydi.</p>\n\n<h2 class=\"article-section-title\">Lean 4: Matematik xatolarga o'rin yo'q</h2>\n<p>Physical Superintelligence (PSI) laboratoriyasi ushbu kashfiyotni amalga oshirish uchun AI agentlarini Lean 4 interaktiv isbotlash muhitiga uladi. Bu yondashuv til modellariga xos \"gallyutsinatsiya\" yoki xato mantiqiy xulosalarni butunlay istisno qiladi, chunki Lean kompyuter dasturi har bir formulani qat'iy matematik qoidalar bo'yicha tekshirib boradi.</p>\n\n<h2 class=\"article-section-title\">Fan uchun amaliy ahamiyati</h2>\n<p>Ushbu ilmiy natija kvant fizikasi uchun qaysi muammolarni kvant hisoblashga topshirish foydali, qaysilarida esa klassik usullar yetarli ekanini aniq ko'rsatib beradi. Shu bilan birga, bu voqea sun'iy intellekt fundamental nazariy fanda inson aqli yetmagan murakkab jumbonqlarni mustaqil yecha olishining yorqin isbotiga aylandi.</p>",
+    "verification_status": "VERIFIED"
+  },
+  "kanada-nova-scotia-ai-data-markaz-noroziliklar-2026": {
+    "id": "kanada-nova-scotia-ai-data-markaz-noroziliklar-2026",
+    "slug": "kanada-nova-scotia-ai-data-markaz-noroziliklar-2026",
+    "title": "Kanadada 10 milliard dollarlik AI data-markazi loyihasiga qarshi ommaviy namoyishlar bo'lib o'tdi",
+    "kicker": "EKOLOGIYA VA ENERGETIKA · KANADA",
+    "meta_title": "Kanada Nova Scotia provinsiyasida gigant AI data-markaziga qarshi namoyishlar — AiNoma",
+    "meta_description": "Kanadaning Nova Scotia provinsiyasida yuzlab aholi Anthropic bilan 20 yillik shartnomaga ega ulkan AI ma'lumot markazi loyihasiga qarshi namoyish o'tkazib, moratoriy talab qildi.",
+    "category": "Dunyo",
+    "audience": "Siyosatchilar, tahlilchilar, tadbirkorlar",
+    "event_date": "2026-11-07",
+    "source_date": "2026-11-07",
+    "source_published_date": "2026-11-07",
+    "date": "2026-11-08",
+    "publish_date": "2026-11-08",
+    "img": "assets/ai_datacenter_helix.jpg",
+    "imgAlt": "AI ma'lumotlar markazi va energiya iste'moli",
+    "qisqacha": [
+      "Kanadaning Nova Scotia provinsiyasida yetti xil nuqtada AI ma'lumot markazlari qurilishiga qarshi norozilik aksiyalari o'tkazildi.",
+      "Point Tupper shaharchasidagi 10 milliard dollarlik markaz Anthropic bilan 20 yillik ijara kelishuviga ega va dastlab 95 MVt energiya sarflaydi.",
+      "Namoyishchilar toza ichimlik suvi zaxiralari va elektr tarmog'ining zo'riqishi tufayli loyihaga to'liq moratoriy e'lon qilishni talab qilmoqda."
+    ],
+    "primary_source": {
+      "name": "CBC News",
+      "title": "Hundreds protest proposed Point Tupper AI data centre across Nova Scotia",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/protests-cape-breton-ai-data-centre-point-tupper-2026",
+      "badge": "XALQARO AXBOROT"
+    },
+    "secondary_sources": [
+      {
+        "name": "CTV News Atlantic",
+        "title": "Protesters call for moratorium on massive Cape Breton AI infrastructure project",
+        "url": "https://atlantic.ctvnews.ca/protesters-call-for-moratorium-on-cape-breton-ai-data-centre-2026"
+      }
+    ],
+    "body": "<p><b>Qisqa javob:</b> Kanadaning Nova Scotia provinsiyasida yuzlab mahalliy fuqarolar ko'chalarga chiqib, Anthropic kompaniyasi ehtiyojlari uchun mo'ljallangan 10 milliard dollarlik AI ma'lumotlar markazi qurilishiga qarshi ommaviy norozilik bildirdi. Aholi tabiiy resurslar kamayishi va elektr narxi oshishidan xavotirda.</p>\n\n<h2 class=\"article-section-title\">Point Tupper loyihasi nima uchun norozilik keltirib chiqardi?</h2>\n<p>EverWind Fuels kompaniyasi tomonidan taqdim etilgan loyihaga ko'ra, Cape Breton hududida bahosi 10 milliard dollarga teng bo'lgan yirik sun'iy intellekt ma'lumot markazi shaharchasi qurilishi ko'zda tutilgan. Ushbu majmua Claude chatbotining muallifi bo'lgan Anthropic bilan 20 yillik eksklyuziv ijara shartnomasiga ega bo'lib, uning birinchi bosqichi 2027-yilda 95 megavatt, 2028-yil o'rtalarida esa qo'shimcha 325 megavatt elektr energiyasini talab qiladi.</p>\n\n<h2 class=\"article-section-title\">Suv va elektr tarmog'i tahlikasi</h2>\n<p>Yomg'irli ob-havoga qaramay, provinsiya poytaxti Galifaksda 1 000 ga yaqin odam parlament binosi oldiga yig'ildi. Aholining asosiy e'tirozi — serverlarni sovitish uchun butun shahar ichimlik suvi oladigan Landrie Lake ko'lidan ulkan hajmda suv tortib olinishi hamda umumiy energetika tizimining zo'riqishidir.</p>\n\n<h2 class=\"article-section-title\">Sun'iy intellektning real hayotdagi to'qnashuvi</h2>\n<p>Hukumat vakillari loyiha mahalliy aholiga moliyaviy yuk bo'lmasligi va kelajakda shamol turbinalari orqali ta'minlanishini bildirayotgan bo'lsa-da, faollar va jamoatchilik loyihaga qat'iy moratoriy e'lon qilishni talab qilmoqda. Ushbu voqea AI modellarining quvvati oshgani sari real dunyo ekologiyasi va infratuzilmasi bilan to'qnashuvlar yanada keskinlashib borayotganini ko'rsatmoqda.</p>",
+    "contentHtml": "<p><b>Qisqa javob:</b> Kanadaning Nova Scotia provinsiyasida yuzlab mahalliy fuqarolar ko'chalarga chiqib, Anthropic kompaniyasi ehtiyojlari uchun mo'ljallangan 10 milliard dollarlik AI ma'lumotlar markazi qurilishiga qarshi ommaviy norozilik bildirdi. Aholi tabiiy resurslar kamayishi va elektr narxi oshishidan xavotirda.</p>\n\n<h2 class=\"article-section-title\">Point Tupper loyihasi nima uchun norozilik keltirib chiqardi?</h2>\n<p>EverWind Fuels kompaniyasi tomonidan taqdim etilgan loyihaga ko'ra, Cape Breton hududida bahosi 10 milliard dollarga teng bo'lgan yirik sun'iy intellekt ma'lumot markazi shaharchasi qurilishi ko'zda tutilgan. Ushbu majmua Claude chatbotining muallifi bo'lgan Anthropic bilan 20 yillik eksklyuziv ijara shartnomasiga ega bo'lib, uning birinchi bosqichi 2027-yilda 95 megavatt, 2028-yil o'rtalarida esa qo'shimcha 325 megavatt elektr energiyasini talab qiladi.</p>\n\n<h2 class=\"article-section-title\">Suv va elektr tarmog'i tahlikasi</h2>\n<p>Yomg'irli ob-havoga qaramay, provinsiya poytaxti Galifaksda 1 000 ga yaqin odam parlament binosi oldiga yig'ildi. Aholining asosiy e'tirozi — serverlarni sovitish uchun butun shahar ichimlik suvi oladigan Landrie Lake ko'lidan ulkan hajmda suv tortib olinishi hamda umumiy energetika tizimining zo'riqishidir.</p>\n\n<h2 class=\"article-section-title\">Sun'iy intellektning real hayotdagi to'qnashuvi</h2>\n<p>Hukumat vakillari loyiha mahalliy aholiga moliyaviy yuk bo'lmasligi va kelajakda shamol turbinalari orqali ta'minlanishini bildirayotgan bo'lsa-da, faollar va jamoatchilik loyihaga qat'iy moratoriy e'lon qilishni talab qilmoqda. Ushbu voqea AI modellarining quvvati oshgani sari real dunyo ekologiyasi va infratuzilmasi bilan to'qnashuvlar yanada keskinlashib borayotganini ko'rsatmoqda.</p>",
+    "verification_status": "VERIFIED"
   }
 };
